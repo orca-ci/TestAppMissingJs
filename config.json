@@ -1,0 +1,7 @@
+{
+    "name": "Test App Missing JS",
+    "className": "TestAppMissingJs",
+    "javascript": [
+        "app.js"
+    ]
+}
